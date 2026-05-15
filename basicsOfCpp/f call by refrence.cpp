@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-void swap(int &x,int &y);
+void swap(int &x,int &y);//swa function
 int main()
 {   int a=10;
     int b=20;
